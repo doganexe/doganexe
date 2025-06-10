@@ -1,4 +1,5 @@
 ### <div align="center">DOĞAN!</div>  
+Guns.lol/[dogaan](https://guns.lol/dogaan)
   
 
 🤖 Discord 🔗[Exe Bot](https://discord.com/oauth2/authorize?client_id=1379557208903258203&permissions=8&scope=bot%20applications.commands) / Geliştiriliyor...  
